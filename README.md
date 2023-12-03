@@ -20,6 +20,8 @@
 <img src="./public/images/punto_5.png" alt="Punto 5">
 
 <h2>Punto 6: Detección de mayoría de edad</h2>
+<img src="./public/images/punto_6.png" alt="Punto 6">
+
 <h2>Punto 7: Selección de operación aritmética</h2>
 <h2>Punto 8: Entrada de bolera usando switch</h2>
 <h2>Punto 9: Tabla de multiplicar usando while</h2>
