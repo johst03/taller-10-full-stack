@@ -32,6 +32,8 @@
 <img src="./public/images/punto_9.png" alt="Punto 9">
 
 <h2>Punto 10: Números pares usando while</h2>
+<img src="./public/images/punto_10.png" alt="Punto 10">
+
 <h2>Punto 11: Números impares usando for</h2>
 <h2>Punto 12: Tabla de multiplicar usando for</h2>
 <h2>Punto 13: Suma de valores de un arreglo usando foreach</h2>
