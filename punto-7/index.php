@@ -2,7 +2,7 @@
   //Datos de entrada (Inputs)
   $firstNumber = readline("Digita el primer numero -> ");
   $secondNumber = readline("Digita el segundo numero -> ");
-  $typeOperation = strtoupper(readline("Digita la operacion que deseas realizar (+, -, *, /) -> "));
+  $typeOperation = readline("Digita la operacion que deseas realizar (+, -, *, /) -> ");
 
   //Proceso (Aritmeticos)
   switch ($typeOperation) {
