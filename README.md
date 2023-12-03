@@ -11,9 +11,11 @@
 <img src="./public/images/punto_2.png" alt="Punto 2">
 
 <h2>Punto 3: Suma de dos números digitados por el usuario</h2>
-<img src="./public/images/punto_2.png" alt="Punto 3">
+<img src="./public/images/punto_3.png" alt="Punto 3">
 
 <h2>Punto 4: Datos del usuario en consola</h2>
+<img src="./public/images/punto_4.png" alt="Punto 4">
+
 <h2>Punto 5: Entrada de bolera usando if/else</h2>
 <h2>Punto 6: Detección de mayoría de edad</h2>
 <h2>Punto 7: Selección de operación aritmética</h2>
